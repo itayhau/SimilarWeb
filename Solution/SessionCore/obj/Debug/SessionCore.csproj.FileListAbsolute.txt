@@ -1,0 +1,8 @@
+c:\users\itay kan\source\repos\SimilarWebApi\SessionCore\obj\Debug\SessionCore.csprojResolveAssemblyReference.cache
+c:\users\itay kan\source\repos\SimilarWebApi\SessionCore\obj\Debug\SessionCore.csproj.CoreCompileInputs.cache
+c:\users\itay kan\source\repos\SimilarWebApi\SessionCore\bin\Debug\SessionCore.dll
+c:\users\itay kan\source\repos\SimilarWebApi\SessionCore\bin\Debug\SessionCore.pdb
+c:\users\itay kan\source\repos\SimilarWebApi\SessionCore\bin\Debug\Newtonsoft.Json.dll
+c:\users\itay kan\source\repos\SimilarWebApi\SessionCore\bin\Debug\Newtonsoft.Json.xml
+c:\users\itay kan\source\repos\SimilarWebApi\SessionCore\obj\Debug\SessionCore.dll
+c:\users\itay kan\source\repos\SimilarWebApi\SessionCore\obj\Debug\SessionCore.pdb
